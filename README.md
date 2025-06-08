@@ -24,5 +24,7 @@
 tomorrowforus.top(tomorrowforus.top) 
  
 ### 致谢名单 
-TownOfHost(https://github.com/tukasa0001/TownOfHost) 
+
+
+Town Of Host(https://github.com/tukasa0001/TownOfHost) 
 内容：COI基于这个mod开发 必须致谢啊 
